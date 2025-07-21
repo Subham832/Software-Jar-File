@@ -81,6 +81,9 @@ Database systems and connectors to support relational and NoSQL persistence laye
 | MySQL Installer   | RDBMS full setup      | [Download](https://drive.google.com/file/d/1Da6HM9UVEVeZT1dbos6flhzMaIbovo-G/view?usp=sharing) |
 
 ---
+Installation Of MySQL WorkBench Install Latest Version :- 
+https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
+--------
 
 ## 📝 Usage Notes
 
