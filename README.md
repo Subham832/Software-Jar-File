@@ -83,7 +83,6 @@ Database systems and connectors to support relational and NoSQL persistence laye
 
 ---
 🚀 Download MySQL Workbench from the link above 🔼 (choose the latest version), then follow the video below 🔽 for quick and easy setup :- 
-
 https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
 --------
 
