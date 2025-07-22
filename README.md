@@ -82,7 +82,8 @@ Database systems and connectors to support relational and NoSQL persistence laye
 | MySQL Wrokbench   | MySQL Workbench GUI.  | [Download](https://dev.mysql.com/downloads/installer/)                                         |
 
 ---
-🚀 Download MySQL Workbench from the link above 🔼 (choose the latest version), then follow the video below 🔽 for quick and easy setup :-          
+🚀 Download MySQL Workbench from the link above 🔼 (choose the latest version), then follow the video below 🔽 for quick and easy setup :- 
+---
 https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
 --------
 
