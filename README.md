@@ -79,10 +79,10 @@ Database systems and connectors to support relational and NoSQL persistence laye
 | MongoDB           | NoSQL database        | [Download](https://drive.google.com/file/d/13dNCDVSBIx0fYe5OAaJQewPNAraH9jps/view?usp=sharing) |
 | MongoSh Shell     | MongoDB CLI interface | [Download](https://drive.google.com/file/d/13dNCDVSBIx0fYe5OAaJQewPNAraH9jps/view?usp=sharing) |
 | MySQL Connector J | JDBC driver for MySQL | [Download](https://drive.google.com/file/d/1Da6HM9UVEVeZT1dbos6flhzMaIbovo-G/view?usp=sharing) |
-| MySQL Installer   | RDBMS full setup      | [Download](https://drive.google.com/file/d/1Da6HM9UVEVeZT1dbos6flhzMaIbovo-G/view?usp=sharing) |
+| MySQL Wrokbench   | MySQL Workbench GUI.  | [Download](https://dev.mysql.com/downloads/installer/)                                         |
 
 ---
-Installation Step For MySQL WorkBench, Install The Latest Version :- 
+🚀 Download MySQL Workbench from the link above 🔼 (choose the latest version), then follow the video below 🔽 for quick and easy setup.
 https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
 --------
 
