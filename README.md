@@ -26,7 +26,7 @@ Essential tools required for local and remote system access, source control, and
 | AnyDesk  | Remote desktop client  | [Download](https://drive.google.com/file/d/1lRHqfmciCPCFBN5WlioIoh6gqSo9qAB0/view?usp=sharing) |
 | Chrome   | Web browser            | [Download](https://drive.google.com/file/d/18tyHFLIBOpwr-E8ENddSIswg1sxko51q/view?usp=sharing) |
 | Git      | Version control system | [Download](https://drive.google.com/file/d/1-RawrwsWnBSzCoHIy1-1PeGIh505AdJJ/view?usp=sharing) |
-| Postman  | API testing tool       | [Download](https://drive.google.com/file/d/1-RawrwsWnBSzCoHIy1-1PeGIh505AdJJ/view?usp=sharing) |
+| Postman  | API testing tool       | [Download](N/A) |
 
 ---
 
