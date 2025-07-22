@@ -42,6 +42,7 @@ Core components for Java EE development, microservices, and enterprise applicati
 | Elasticsearch    | Search and analytics engine | [Download](https://drive.google.com/file/d/1g-np-PpRVAAajhsz7bn8wy1Nf8Y6ufhe/view?usp=sharing) |
 | Kibana           | Elasticsearch dashboard     | [Download](https://drive.google.com/file/d/166xQo_JALRA5VgRwopoYxZPfw1K86epq/view?usp=sharing) |
 | LogStash         | Data pipeline and ETL tool  | [Download](https://drive.google.com/file/d/1lOjUoC9Is6ZCQSJwjrUhiCSsIqKPKumI/view?usp=sharing) |
+| Ngrok            | Ngrok exposes localhost     | [Download](https://ngrok.com/downloads/windows?tab=download)                                   |
 
 ---
 
