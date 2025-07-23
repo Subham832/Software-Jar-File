@@ -1,140 +1,96 @@
+# Software-Jar-File
 
 # 📦 Software Jar File Repository
 
-A centralized and professionally maintained collection of essential development tools and runtime environments to streamline the setup of full-stack Java-based enterprise applications. This repository ensures efficient onboarding and configuration using pre-hosted binaries.
+A centralized collection of essential development tools and runtime environments for setting up full-stack Java-based projects. This documentation ensures your team can quickly install necessary dependencies via Google Drive-hosted binaries.
 
 ---
 
 ## 🔧 Table of Contents
 
-1. [General Utilities](#1-general-utilities)  
-2. [Web & Application Servers](#2-web--application-servers)  
-3. [Developer IDEs](#3-developer-ides)  
-4. [Java SDKs & Libraries](#4-java-sdks--libraries)  
-5. [Databases & Drivers](#5-databases--drivers)  
-6. [Build Tools](#6-build-tools)  
-7. [Kafka Installation Guide](#7-kafka-installation-guide)  
-8. [Usage Notes](#8-usage-notes)  
+1. [General Utilities](#general-utilities)
+2. [Web & Application Servers](#web--application-servers)
+3. [Developer IDEs](#developer-ides)
+4. [Java SDKs & Libraries](#java-sdks--libraries)
+5. [Databases & Drivers](#databases--drivers)
+6. [Usage Notes](#usage-notes)
 
 ---
 
 ## 1️⃣ General Utilities
 
-| Software  | Description             | Download Link |
-|-----------|-------------------------|----------------|
-| AnyDesk   | Remote desktop client   | [Download]()   |
-| Chrome    | Web browser             | [Download]()   |
-| Git       | Version control system  | [Download]()   |
-| Postman   | API testing tool        | [Download]()   |
+Essential tools required for local and remote system access, source control, and API testing.
+
+| Software | Description            | Download Link                                                                                  |
+| -------- | ---------------------- | ---------------------------------------------------------------------------------------------- |
+| AnyDesk  | Remote desktop client  | [Download](https://drive.google.com/file/d/1lRHqfmciCPCFBN5WlioIoh6gqSo9qAB0/view?usp=sharing) |
+| Chrome   | Web browser            | [Download](https://drive.google.com/file/d/18tyHFLIBOpwr-E8ENddSIswg1sxko51q/view?usp=sharing) |
+| Git      | Version control system | [Download](https://drive.google.com/file/d/1-RawrwsWnBSzCoHIy1-1PeGIh505AdJJ/view?usp=sharing) |
+| Postman  | API testing tool       | [Download](https://www.postman.com/downloads/) |
 
 ---
 
 ## 2️⃣ Web & Application Servers
 
-| Server          | Purpose                          | Download Link |
-|------------------|----------------------------------|----------------|
-| Apache Tomcat     | Servlet and JSP container        | [Download]()   |
-| Apache ZooKeeper  | Distributed coordination         | [Download]()   |
-| Kafka             | Event streaming platform         | [Download]()   |
-| Elasticsearch     | Search and analytics engine      | [Download]()   |
-| Kibana            | Elasticsearch dashboard          | [Download]()   |
-| LogStash          | Data pipeline and ETL tool       | [Download]()   |
-| Ngrok             | Expose localhost to internet     | [Download]()   |
+Core components for Java EE development, microservices, and enterprise applications.
+
+| Server           | Purpose                     | Download Link                                                                                  |
+| ---------------- | --------------------------- | ---------------------------------------------------------------------------------------------- |
+| Apache Tomcat    | Servlet and JSP container   | [Download](https://drive.google.com/file/d/1ktFL3wq26EVcIt6KgA9lKWvTVfdVKr9m/view?usp=sharing) |
+| Apache Zookeeper | Distributed coordination    | [Download](https://drive.google.com/file/d/1pArjJW2an3wjDoWDFRb-Vo2jtFkHAwwK/view?usp=sharing) |
+| Kafka            | Event streaming platform    | [Download](https://drive.google.com/file/d/1rcUvjupcbjdf9UTiziAFdM7GvJCblWQY/view?usp=sharing) |
+| Elasticsearch    | Search and analytics engine | [Download](https://drive.google.com/file/d/1g-np-PpRVAAajhsz7bn8wy1Nf8Y6ufhe/view?usp=sharing) |
+| Kibana           | Elasticsearch dashboard     | [Download](https://drive.google.com/file/d/166xQo_JALRA5VgRwopoYxZPfw1K86epq/view?usp=sharing) |
+| LogStash         | Data pipeline and ETL tool  | [Download](https://drive.google.com/file/d/1lOjUoC9Is6ZCQSJwjrUhiCSsIqKPKumI/view?usp=sharing) |
+| Ngrok            | Ngrok exposes localhost     | [Download](https://ngrok.com/downloads/windows?tab=download)                                   |
 
 ---
 
 ## 3️⃣ Developer IDEs
 
-| IDE               | Description                     | Download Link |
-|------------------|----------------------------------|----------------|
-| Eclipse           | Open-source Java IDE             | [Download]()   |
-| IntelliJ IDEA     | IntelliJ Community Edition       | [Download]()   |
-| Spring Tool Suite | Spring-specific Java IDE         | [Download]()   |
+Integrated development environments to facilitate high-productivity Java application development.
+
+| IDE               | Description                | Download Link                                                                                  |
+| ----------------- | -------------------------- | ---------------------------------------------------------------------------------------------- |
+| Eclipse           | Open-source Java IDE       | [Download](https://drive.google.com/file/d/1pArjJW2an3wjDoWDFRb-Vo2jtFkHAwwK/view?usp=sharing) |
+| IntelliJ IDEA     | IntelliJ Community Edition | [Download](https://drive.google.com/file/d/1vPysePHHPO2jrs07vmvyfL8yra0opZkG/view?usp=sharing) |
+| Spring Tool Suite | Spring-specific Java IDE   | [Download](https://drive.google.com/file/d/1mpWAZbbxwVxWhUvUHIE9SDFKCAfR7dFA/view?usp=sharing) |
 
 ---
 
 ## 4️⃣ Java SDKs & Libraries
 
-| Component | Version | Download Link |
-|-----------|---------|----------------|
-| JDK       | 17      | [Download]()   |
-| JDK       | 1.8     | [Download]()   |
-| JSTL      | 1.2     | [Download]()   |
+Core Java environments and standard libraries required for development and runtime execution.
+
+| Component | Version  | Download Link                                                                                  |
+| --------- | -------- | ---------------------------------------------------------------------------------------------- |
+| JDK       | Java 17  | [Download](https://drive.google.com/file/d/1iag8KxGrC4LDnv612ed-_-AtymRXEjiA/view?usp=sharing) |
+| JDK       | Java 1.8 | [Download](https://drive.google.com/file/d/1Y2lbPREeGyl_qOm7EGVSP53PTieKM6cw/view?usp=sharing) |
+| JSTL      | 1.2      | [Download](https://drive.google.com/file/d/1Uk8c79oaVhO5dBDpAbdkffkY9SOjWzVT/view?usp=sharing) |
 
 ---
 
 ## 5️⃣ Databases & Drivers
 
-| Tool               | Description                    | Download Link |
-|--------------------|--------------------------------|----------------|
-| MongoDB            | NoSQL database                 | [Download]()   |
-| MongoSh Shell      | MongoDB CLI interface          | [Download]()   |
-| MySQL Connector/J  | JDBC driver for MySQL          | [Download]()   |
-| MySQL Workbench    | MySQL Workbench GUI            | [Download]()   |
+Database systems and connectors to support relational and NoSQL persistence layers.
 
-📹 _[Watch: MySQL Workbench Setup Tutorial](#)_
-
----
-
-## 6️⃣ Build Tools
-
-| Tool   | Version | Description                     | Download Link |
-|--------|---------|----------------------------------|----------------|
-| Maven  | 3.9.11  | Project management & build tool | [Download apache-maven-3.9.11-bin.zip]() |
+| Tool              | Description           | Download Link                                                                                  |
+| ----------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
+| MongoDB           | NoSQL database        | [Download](https://drive.google.com/file/d/13dNCDVSBIx0fYe5OAaJQewPNAraH9jps/view?usp=sharing) |
+| MongoSh Shell     | MongoDB CLI interface | [Download](https://drive.google.com/file/d/13dNCDVSBIx0fYe5OAaJQewPNAraH9jps/view?usp=sharing) |
+| MySQL Connector J | JDBC driver for MySQL | [Download](https://drive.google.com/file/d/1Da6HM9UVEVeZT1dbos6flhzMaIbovo-G/view?usp=sharing) |
+| MySQL Wrokbench   | MySQL Workbench GUI.  | [Download](https://dev.mysql.com/downloads/installer/)                                         |
 
 ---
+🚀 Download MySQL Workbench from the link above 🔼 (choose the latest version), then follow the video below 🔽 for quick and easy setup :- 
+https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
+--------
 
-## 7️⃣ Kafka Installation Guide
+## 📝 Usage Notes
 
-A step-by-step local Kafka setup for development:
+* 🔗 **Access:** Ensure all Google Drive links are set to **"Anyone with the link" → Viewer**.
+* 💡 **Tip:** Keep local backups and regularly check that links remain active.
+* 📥 **Update:** Version changes or broken links should be documented in the project's changelog or issue tracker.
 
-### ✅ Step 1: Download Kafka 3.9.1 (Scala 2.13)
-
-📦 [Download kafka_2.13-3.9.1.tgz](#)  
-Includes Kafka, ZooKeeper, and shell scripts.
-
-### ✅ Step 2: Extract Kafka Archive
-
-Use WinRAR, 7-Zip, or a terminal-based tool and extract to:
-
-```
-C:\kafka\kafka_2.13-3.9.1
-```
-
-### ✅ Step 3: Start ZooKeeper & Kafka Servers
-
-#### 🔹 Terminal 1: Start ZooKeeper
-
-```bash
-cd C:\kafka\kafka_2.13-3.9.1
-.in\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-```
-
-_Keep this terminal running._
-
-#### 🔹 Terminal 2: Start Kafka Server
-
-```bash
-cd C:\kafka\kafka_2.13-3.9.1
-.in\windows\kafka-server-start.bat .\config\server.properties
-```
-
-✅ Kafka will be available at: `localhost:9092`
-
----
-
-## 8️⃣ Usage Notes
-
-- 🔗 **Access:** Ensure all Google Drive links are set to `Anyone with the link → Viewer`.
-- 💾 **Backups:** Maintain local copies of critical binaries.
-- 📌 **Updates:** Record version upgrades and broken links in your team changelog.
-
----
-
-## 👨‍💻 Maintainer
-
-**Subham Kumar**  
-📫 _Contact for updates, additions, or improvement requests._
-
----
+> Maintained by: *Subham Kumar* · Contact for update requests or additions.
 
