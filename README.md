@@ -86,6 +86,15 @@ Database systems and connectors to support relational and NoSQL persistence laye
 https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
 --------
 
+## 6️⃣ Build Tools
+
+**Purpose:** Dependency management and project build lifecycle.
+
+| Tool  | Version | Description             | Download Link                                                                                                             |
+| ----- | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------  |
+| Maven | 3.9.11  | Build & dependency tool | [📦 apache-maven-3.9.11-bin.zip](https://downloads.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.zip) |
+
+--------
 ## 📝 Usage Notes
 
 * 🔗 **Access:** Ensure all Google Drive links are set to **"Anyone with the link" → Viewer**.
