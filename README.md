@@ -94,6 +94,34 @@ https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
 | ----- | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------  |
 | Maven | 3.9.11  | Build & dependency tool | [📦 apache-maven-3.9.11-bin.zip](https://downloads.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.zip) |
 
+---
+
+### 7️⃣ Kafka Installation Guide (v3.9.1 – Scala 2.13)
+
+| Step         | Description         | Command / Info                                                                            |
+| ------------ | ------------------- | ----------------------------------------------------------------------------------------- |
+| ✅ **Step 1** | **Download Kafka**  | 📦 [kafka\_2.13-3.9.1.tgz](https://downloads.apache.org/kafka/3.9.1/kafka_2.13-3.9.1.tgz) |
+| ✅ **Step 2** | **Extract Archive** | Extract using 7-Zip / WinRAR<br>📁 Suggested Path: `C:\kafka\kafka_2.13-3.9.1`            |
+| ✅ **Step 3** | **Start Services**  | Use 2 terminals: ZooKeeper & Kafka                                                        |
+
+#### 📂 Terminal 1 – Start ZooKeeper
+
+```bash
+cd C:\kafka\kafka_2.13-3.9.1
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+```
+
+#### 📂 Terminal 2 – Start Kafka Server
+
+```bash
+cd C:\kafka\kafka_2.13-3.9.1
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+```
+
+📡 Kafka runs at: `localhost:9092`
+
+---
+
 --------
 ## 📝 Usage Notes
 
