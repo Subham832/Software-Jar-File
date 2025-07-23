@@ -13,7 +13,9 @@ A centralized collection of essential development tools and runtime environments
 3. [Developer IDEs](#developer-ides)
 4. [Java SDKs & Libraries](#java-sdks--libraries)
 5. [Databases & Drivers](#databases--drivers)
-6. [Usage Notes](#usage-notes)
+6. [Build Tools](#build-tools)
+7. [Kafka Installation Guide](#kafka-installation-guide-v391--scala-213)
+8. [Usage Notes](#usage-notes)
 
 ---
 
