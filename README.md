@@ -109,15 +109,15 @@ https://youtu.be/YSOY_NyOg40?si=bR-M5IlFQg0Si-if
 #### 📂 Terminal 1 – Start ZooKeeper
 
 ```bash
-cd C:\kafka\kafka_2.13-3.9.1
-.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+cd C:\kafka\kafka_2.13-3.9.1\bin\windows
+zookeeper-server-start.bat ..\..\config\zookeeper.properties
 ```
 
 #### 📂 Terminal 2 – Start Kafka Server
 
 ```bash
-cd C:\kafka\kafka_2.13-3.9.1
-.\bin\windows\kafka-server-start.bat .\config\server.properties
+cd C:\kafka\kafka_2.13-3.9.1\bin\windows
+kafka-server-start.bat ..\..\config\server.properties
 ```
 
 📡 Kafka runs at: `localhost:9092`
